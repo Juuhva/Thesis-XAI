@@ -1,0 +1,5 @@
+;precision;recall;f1-score;support
+cat;0.88;1.00;0.93;64.0
+dog;1.00;0.88;0.93;64.0
+human;0.98;0.97;0.98;64.0
+accuracy;0.95;;;
